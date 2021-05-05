@@ -1,3 +1,8 @@
+This repo will include the subjects: Context Api, Portals, Strict Mode, Code Splitting, Dynamic Import Usage, React lazy(), React Suspense, TypeChecking, Static - Dynamic - Strong - Weak Typing, propTypes, defaultProps, renderProps, Refs, Ref Forwarding ( Url routing ) via following my udemy course (https://www.udemy.com/course/reactjs-ogren/learn/lecture/20175584#overview).
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
